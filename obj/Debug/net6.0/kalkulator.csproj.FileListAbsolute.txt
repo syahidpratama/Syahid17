@@ -1,0 +1,15 @@
+E:\tugas 22\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.exe
+E:\tugas 22\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+E:\tugas 22\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+E:\tugas 22\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.dll
+E:\tugas 22\kalkulator\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.csproj.AssemblyReference.cache
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.dll
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+E:\tugas 22\kalkulator\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
